@@ -34,11 +34,11 @@ I'm a passionate learner, currently undergoing a full stack developer course.
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
-![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat&logo=material-ui)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss)
 
 #### 🗄 &nbsp;Databases: <br />
 
