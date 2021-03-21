@@ -1,6 +1,6 @@
 <div>
   <h2> 
-    <img src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/Banner.jpg"> 
+    <img src="https://image.freepik.com/free-vector/coding-system-banner_87720-2994.jpg"> 
     Samir Mansour 
   </h2>
 </div>
