@@ -1,9 +1,4 @@
-<div>
-  <h2>  
-    (https://github.com/Cezar04/Cezar04/blob/master/Blue%20and%20White%20Architect%20LinkedIn%20Banner.gif)
-    Samir Mansour 
-  </h2>
-</div>
+ (https://github.com/smyrmnsr/smyrmnsr/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 
 ### ℹ️ &nbsp;About me:
 
