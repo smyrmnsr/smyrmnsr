@@ -39,7 +39,7 @@ I'm a passionate learner, currently undergoing a full stack developer course.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat&logo=material-ui)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)
 
 #### 💻 &nbsp;IDE & Tools: <br />
 
