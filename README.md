@@ -13,7 +13,7 @@ I'm a passionate learner, currently undergoing a full stack developer course.
 
 <p>
   <a href="https://github.com/smyrmnsr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smyrmnsr&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"/>
   </a>
 </p>
 
