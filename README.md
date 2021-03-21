@@ -1,6 +1,6 @@
 <div>
   <h2> 
-    <img src="https://thumbs.dreamstime.com/b/coding-system-minimal-infographic-web-banner-vector-binary-data-encryption-linear-pictograms-development-programming-languages-bug-160114164.jpg"> 
+    <img src="https://www.canva.com/design/DAEZahY0uNM/76ruSwNZlk_JIM1zfxE2UQ/view?utm_content=DAEZahY0uNM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> 
     Samir Mansour 
   </h2>
 </div>
