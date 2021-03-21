@@ -1,6 +1,6 @@
 <div>
   <h2> 
-    <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"> 
+    <img src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/Banner.jpg"> 
     Samir Mansour 
   </h2>
 </div>
