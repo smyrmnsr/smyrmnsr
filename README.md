@@ -9,14 +9,6 @@
 
 I'm a passionate learner, currently undergoing a full stack developer course.
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p>
-  <a href="https://github.com/smyrmnsr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=florindanciu&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
 ### 🛠 &nbsp;Languages and Tools
 
 #### 🔐 &nbsp;Backend: <br />
