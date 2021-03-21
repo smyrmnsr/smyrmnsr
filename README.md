@@ -1,6 +1,6 @@
 <div>
   <h2> 
-    <img src="https://www.alamy.com/coding-system-minimal-infographic-banner-vector-image328676067.html"> 
+    <img src="https://thumbs.dreamstime.com/b/coding-system-minimal-infographic-web-banner-vector-binary-data-encryption-linear-pictograms-development-programming-languages-bug-160114164.jpg"> 
     Samir Mansour 
   </h2>
 </div>
