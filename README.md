@@ -1,4 +1,4 @@
- (https://github.com/smyrmnsr/smyrmnsr/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
+ ![Samir Mansour](https://github.com/smyrmnsr/smyrmnsr/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 
 ### ℹ️ &nbsp;About me:
 
