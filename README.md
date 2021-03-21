@@ -17,7 +17,7 @@ I'm a passionate learner, currently undergoing a full stack developer course.
   </a>
 </p>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Languages and Tools
 
 #### 🔐 &nbsp;Backend: <br />
 
