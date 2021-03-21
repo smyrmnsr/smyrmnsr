@@ -1,6 +1,6 @@
 <div>
   <h2> 
-    <img src="https://www.igti.com.br/blog/wp-content/uploads/2018/06/iStock-802775028-1500x500.jpg"> 
+    <img src="https://www.mastechdigital.com/wp-content/uploads/2018/12/Blog-banner-new.jpg"> 
     Samir Mansour 
   </h2>
 </div>
