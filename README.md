@@ -1,6 +1,6 @@
 <div>
   <h2> 
-    <img src="https://image.freepik.com/free-vector/coding-system-banner_87720-2994.jpg"> 
+    <img src="https://www.alamy.com/coding-system-minimal-infographic-banner-vector-image328676067.html"> 
     Samir Mansour 
   </h2>
 </div>
