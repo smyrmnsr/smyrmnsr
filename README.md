@@ -4,7 +4,7 @@
 
  I'm a passionate learner, currently undergoing a full stack developer course.
 
-#### 🛠 &nbsp;Languages and Tools
+### 🛠 &nbsp;Languages and Tools
 
 <!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) -->
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
@@ -19,7 +19,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
 
-#### 💻 &nbsp;IDE & Tools: 
+#### 💻 &nbsp;IDE & Others: 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman)
