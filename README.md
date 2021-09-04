@@ -2,7 +2,7 @@
 
 ### ℹ️ &nbsp;About me:
 
-I'm a passionate learner, currently undergoing a full stack developer course.
+ I'm a passionate learner, currently undergoing a full stack developer course.
 
 ### 🛠 &nbsp;Languages and Tools
 
