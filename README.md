@@ -1,10 +1,10 @@
  ![Samir Mansour](https://github.com/smyrmnsr/smyrmnsr/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 
-### ℹ️ &nbsp;About me:
+#### ℹ️ &nbsp;About me:
 
  I'm a passionate learner, currently undergoing a full stack developer course.
 
-### 🛠 &nbsp;Languages and Tools
+#### 🛠 &nbsp;Languages and Tools
 
 <!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) -->
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
