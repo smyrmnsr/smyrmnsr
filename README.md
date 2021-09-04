@@ -29,4 +29,4 @@
 #### 🌐 &nbsp;Follow me on: 
 [![Linkedin: samir](https://img.shields.io/badge/-LinkedIn-05122A?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/samir-mansour-47132a215/)](https://www.linkedin.com/in/samir-mansour-47132a215/)
 [![GitHub Samir](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)](https://github.com/smyrmnsr)
-[!Codewars](https://img.shields.io/badge/-Codewars-05122A?style=flat&logo=Codewars&logoColor=B1361E)](https://www.codewars.com/users/Smyrmnsr)
+[![Codewars](https://img.shields.io/badge/-Codewars-05122A?style=flat&logo=Codewars&logoColor=B1361E)](https://www.codewars.com/users/Smyrmnsr)
