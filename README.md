@@ -27,5 +27,5 @@ I'm a passionate learner, currently undergoing a full stack developer course.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-05122A.svg?style=flat&logo=intellij-idea&logoColor=white)
 
 #### More about me: 
-[![Linkedin: spaf](https://img.shields.io/badge/-spaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samir-mansour-47132a215/)](https://www.linkedin.com/in/samir-mansour-47132a215/)
-[![GitHub Samir](https://img.shields.io/github/followers/smyrmnsr?label=follow&style=social)](https://github.com/smyrmnsr)
+[![Linkedin: spaf](https://img.shields.io/badge/-samir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samir-mansour-47132a215/)](https://www.linkedin.com/in/samir-mansour-47132a215/)
+[![GitHub Samir](https://img.shields.io/github/smyrmnsr?label=follow&style=social)](https://github.com/smyrmnsr)
