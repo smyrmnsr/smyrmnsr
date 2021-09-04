@@ -19,7 +19,7 @@ I'm a passionate learner, currently undergoing a full stack developer course.
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
 
-<h2>IDE & Others: </h2> 
+#### 💻 &nbsp;IDE & Tools: 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman)
