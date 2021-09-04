@@ -25,3 +25,7 @@ I'm a passionate learner, currently undergoing a full stack developer course.
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A.svg?style=flat&logo=visual-studio-code&logoColor=blue)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-05122A.svg?style=flat&logo=intellij-idea&logoColor=white)
+
+#### More about me: 
+[![Linkedin: spaf](https://img.shields.io/badge/-spaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samir-mansour-47132a215/)](https://www.linkedin.com/in/samir-mansour-47132a215/)
+[![GitHub Samir](https://img.shields.io/github/followers/smyrmnsr?label=follow&style=social)](https://github.com/smyrmnsr)
