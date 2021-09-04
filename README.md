@@ -8,12 +8,12 @@ I'm a passionate learner, currently undergoing a full stack developer course.
 
 #### 🔐 &nbsp;Backend: <br />
 
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+<!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) -->
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring)
-![Spring Security](https://img.shields.io/badge/-SpringSecurity-05122A?style=flat&logo=spring)
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+
 
 #### 🌐 &nbsp;Frontend: <br />
 
