@@ -18,17 +18,17 @@ I'm a passionate learner, currently undergoing a full stack developer course.
 
 #### 🌐 &nbsp;Frontend: <br />
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
-![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
 
 #### 💻 &nbsp;IDE & Tools: <br />
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![VSCode](https://img.shields.io/badge/IDE-VSCode-black?style=flat-square&logo=vscode)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman)
+![VSCode](https://img.shields.io/badge/-VS-Code-05122A?style=flat-aquare&logo=vs%20code&logoColor=0078D4)
 ![IntelliJ](https://img.shields.io/badge/IDE-IntelliJIDEA-black?style=flat-square&logo=intellij)
