@@ -30,5 +30,5 @@ I'm a passionate learner, currently undergoing a full stack developer course.
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman)
-![VSCode](https://img.shields.io/badge/-VS-Code-05122A?style=flat-aquare&logo=vs%20code&logoColor=0078D4)
+![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=vs%20code&logoColor=0078D4)
 ![IntelliJ](https://img.shields.io/badge/IDE-IntelliJIDEA-black?style=flat-square&logo=intellij)
